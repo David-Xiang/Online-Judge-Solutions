@@ -1,6 +1,6 @@
 // opejudge 1184
 // lost cows
-// brutal force / interval tree
+// brutal force / segment tree
 
 #include <iostream>
 #include <algorithm>
