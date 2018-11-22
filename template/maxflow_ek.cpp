@@ -2,7 +2,7 @@
 // Edmond-Karp Algorithm
 
 #include <iostream>
-#include <memory>
+#include <cstring>
 #include <set>
 #include <vector>
 #include <queue>
@@ -12,9 +12,9 @@
 
 using namespace std;
 int g[MAXN][MAXN];  // edges(weight) of the graph
-int pre[MAXN];     // preious node in each path
+int pre[MAXN];      // preious node in each path
 bool vis[MAXN];     // whether the node is visited
-int n;              // n is the number of nodes
+int n, e;           // the number of nodes and edges
 int src, sink;      // source and sink
 
 int min(int a, int b){
@@ -87,6 +87,12 @@ void init(){
     g[1][3] = 20;
     g[1][2] = 30;
     g[2][3] = 10;
+
+    //for (int i = 0; i < e; i++){
+    //    int u, v, w;
+    //    cin >> u >> v >> w;
+    //    g[u][v] += w;   // there may be more than 1 edge between 2 nodes
+    //}
 }
 
 int main(){
