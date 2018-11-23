@@ -77,9 +77,8 @@ int augment(){      // find augmented path
 void init(){
     // construct the graph
     memset(g, 0, sizeof(g));
-    int edges;
     n = 4;
-    edges = 5;
+    e = 5;
     src = 0;
     sink = 3; 
     g[0][1] = 40;
