@@ -17,7 +17,7 @@ int dfn[MAXN];
 int low[MAXN];
 bool visited[MAXN];
 bool onstack[MAXN];
-int index;
+int id;
 int N;
 
 inline int min(int a, int b){
@@ -45,7 +45,7 @@ void init(){
 
 void Tarjan(int u){
     visited[u] = true;
-    dfn[u] = low[u] = ++index;              // init dfn and low with index
+    dfn[u] = low[u] = ++id;              // init dfn and low with index
     stk.push(u);
     onstack[u] = true;
     
