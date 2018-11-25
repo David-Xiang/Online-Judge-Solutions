@@ -3,7 +3,7 @@ Daily online judge solutions (mainly LeetCode and Openjudge)
 
 ## Specifications
 
-File format: `[SITE][NUM].cpp` etc
+File format: `[SITE][ID].cpp` etc
 
 Site abbreviation:
 
