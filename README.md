@@ -12,8 +12,6 @@ Site abbreviation:
 
 ## Contents
 
-### Union Find
-
 | Date     | ID     | Name         | Category   | Comments |
 | -------- | ------ | ------------ | ---------- | -------- |
 | 18/09/17 | OJ184  | Food Chain   | Union Find | NOI 2001 |
