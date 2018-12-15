@@ -86,6 +86,7 @@ void init(){
 }
 
 int main(){
+    ioOptimizer;
     init();
     if (searchDFA("abcddddddddddd"))
         cout << "YES" << endl;
