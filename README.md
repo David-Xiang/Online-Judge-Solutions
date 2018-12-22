@@ -31,7 +31,7 @@ Site abbreviation:
 | 18/12/15 | OJ17848 | AC Automaton | AC Automaton | Template Problem |
 | 18/12/16 | OJ3604 | Computer Virus on Planet Pandora | AC Automaton | Find all matching patterns |
 | 18/12/22 | OJ271 | Intersecting Lines | Computational Geometry | Mid-Atlantic 1996 |
-|          |         |                                                              |                             |                                                    |
+| 18/12/22 | OJ571 | Myacm Triangles | Computational Geometry | Whether a point is inside a triangle |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
