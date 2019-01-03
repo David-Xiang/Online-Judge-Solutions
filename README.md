@@ -34,5 +34,15 @@ Site abbreviation:
 | 18/12/22 | OJ571 | Myacm Triangles | Computational Geometry | Whether a point is inside a triangle |
 | 19/01/03 | OJ2524 | Ubiquitous Religions | Union Find | Template Problem |
 | 19/01/03 | LC542 | Friend Circles | Union Find | Template Problem |
+| 19/01/03 | OJ230 | Grandpa's Estate | Computational Geometry | Stable Convex Hull |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
+|          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
