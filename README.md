@@ -8,7 +8,7 @@ File format: `[SITE][ID].cpp` etc
 Site abbreviation:
 
 - `OP`: http://openjudge.cn
-- `ßLC`: https://leetcode.com/
+- `LC`: https://leetcode.com/
 
 ## Contents
 
@@ -16,7 +16,7 @@ Site abbreviation:
 | -------- | ------ | ------------ | ---------- | -------- |
 | 18/09/17 | OJ184  | Food Chain   | Union Find | NOI 2001 |
 | 18/09/17 | OJ1494 | A Bug’s Life | Union Find |          |
-| 18/10/12 | LC307   | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Binary Indexed Tree |          |
+| 18/10/12 | LC307   | Range Sum Query - Mutable | Binary Indexed Tree |          |
 | 18/10/13 | OJ197   | Mobile Phones                                                | Binary Indexed Tree | IOI 2001 |
 | 18/10/13 | OJ3532  | Apple Tree                                                   | Binary Indexed Tree |          |
 | 18/10/13 | OJ17817 | Hard LIS                                                     | Binary Indexed Tree |          |
@@ -32,7 +32,7 @@ Site abbreviation:
 | 18/12/16 | OJ3604 | Computer Virus on Planet Pandora | AC Automaton | Find all matching patterns |
 | 18/12/22 | OJ271 | Intersecting Lines | Computational Geometry | Mid-Atlantic 1996 |
 | 18/12/22 | OJ571 | Myacm Triangles | Computational Geometry | Whether a point is inside a triangle |
-|          |         |                                                              |                             |                                                    |
-|          |         |                                                              |                             |                                                    |
+| 19/01/03 | OJ2524 | Ubiquitous Religions | Union Find | Template Problem |
+| 19/01/03 | LC542 | Friend Circles | Union Find | Template Problem |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
