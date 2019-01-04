@@ -9,6 +9,7 @@ Site abbreviation:
 
 - `OP`: http://openjudge.cn
 - `LC`: https://leetcode.com/
+- `HDU`: http://acm.hdu.edu.cn
 
 ## Contents
 
@@ -37,8 +38,8 @@ Site abbreviation:
 | 19/01/03 | OJ230 | Grandpa's Estate | Computational Geometry | Stable Convex Hull |
 | 19/01/03 | OJ6088 | Most Distant Point from the Sea | Computational Geometry | Half Plane & Dichotomy (BUG exists) |
 | 19/01/04 | OJ41 | Pipe | Computational Geometry | Segment Intersection |
-|          |         |                                                              |                             |                                                    |
-|          |         |                                                              |                             |                                                    |
+| 19/01/05 | HDU1166 | The Enemy Front | Binary Indexed Tree | Template Problem |
+|  |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
