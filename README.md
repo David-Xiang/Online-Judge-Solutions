@@ -36,7 +36,7 @@ Site abbreviation:
 | 19/01/03 | LC542 | Friend Circles | Union Find | Template Problem |
 | 19/01/03 | OJ230 | Grandpa's Estate | Computational Geometry | Stable Convex Hull |
 | 19/01/03 | OJ6088 | Most Distant Point from the Sea | Computational Geometry | Half Plane & Dichotomy (BUG exists) |
-|          |         |                                                              |                             |                                                    |
+| 19/01/04 | OJ41 | Pipe | Computational Geometry | Segment Intersection |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
