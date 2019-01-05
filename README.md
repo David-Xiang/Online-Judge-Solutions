@@ -40,7 +40,7 @@ Site abbreviation:
 | 19/01/04 | OJ41 | Pipe | Computational Geometry | Segment Intersection |
 | 19/01/04 | HDU1166 | The Enemy Front | Binary Indexed Tree | Template Problem |
 | 19/01/05 | HDU1166 | The Enemy Front | Segment Tree | Single Point Update + Interval Query |
-|          |         |                                                              |                             |                                                    |
+| 19/01/05 | OJ2439 | The Enemy Front | Segment Tree | Single Point Update + Interval Query |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
