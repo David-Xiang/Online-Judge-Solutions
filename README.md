@@ -8,8 +8,9 @@ File format: `[SITE][ID].cpp` etc
 Site abbreviation:
 
 - `OP`: http://openjudge.cn
-- `LC`: https://leetcode.com/
+- `LC`: https://leetcode.com
 - `HDU`: http://acm.hdu.edu.cn
+- `POJ`: http://poj.org
 
 ## Contents
 
@@ -26,7 +27,7 @@ Site abbreviation:
 | 18/11/23 | OJ525 | SPF | Graph Connectivity (Tarjan) | How many cut vertexes in a graph |
 | 18/11/22 | OJ275 | Drainage Ditches | Maximum Flow | EK algo |
 | 18/11/23 | OJ2188 | ACM Computer Factory | Maximum Flow | Dinic algo, modelling |
-| 18/11/23 | OJ862 | Exchange Point | Shorest Path | Bellman-Ford algo, find a **positive** weight loop |
+| 18/11/23 | OJ862 | Exchange Point | Shorest Path | Bellman Ford, find a **positive** weight loop |
 | 18/12/02 | OJ1114 | Optimal Milking | Maximum Flow | Maximum Flow + Shortest Path (Floyd) |
 | 18/12/02 | OJ276 | The Perfect Stall | Maximum Flow | Maximum Match in Bipartite Graph |
 | 18/12/15 | OJ17848 | AC Automaton | AC Automaton | Template Problem |
@@ -42,7 +43,7 @@ Site abbreviation:
 | 19/01/05 | HDU1166 | The Enemy Front | Segment Tree | Single Point Update + Interval Query |
 | 19/01/05 | OJ2439 | Balanced Lineup | Segment Tree | Single Point Update + Interval Query |
 | 19/01/05 | OJ2440 | A Simple Problem with Integers | Segment Tree | Interval Update + Interval Query |
-|          |         |                                                              |                             |                                                    |
+| 19/01/05 | POJ3259 | Wormholes | Shortest Path | Bellman Ford, find a negative weight cycle |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
 |          |         |                                                              |                             |                                                    |
