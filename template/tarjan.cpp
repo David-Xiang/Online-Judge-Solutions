@@ -18,7 +18,7 @@ int low[MAXN];
 bool visited[MAXN];
 bool onstack[MAXN];
 int id;
-int N;
+int n;
 
 inline int min(int a, int b){
     return a > b ? b : a;
@@ -28,10 +28,14 @@ void init(){
     memset(low, 0, sizeof(low));
     memset(visited, 0, sizeof(visited));
     memset(onstack, 0, sizeof(onstack));
+    for (int i = 0; i < edges.size(); i++)
+        edges[i].clear();
+    while(!stk.empty())
+        stk.pop();
     
     // example
-    index = 0;
-    N = 7;
+    id = 0;
+    n = 7;
     edges[0].push_back(1);
     edges[0].push_back(5);
     edges[1].push_back(2);
@@ -77,7 +81,7 @@ void Tarjan(int u){
 int main(){
     ioOptimizer;
     init();
-    for (int i = 0; i < N; i++){
+    for (int i = 0; i < n; i++){
         if (!visited[i])
             Tarjan(i);
     }
