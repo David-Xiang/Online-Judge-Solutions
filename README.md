@@ -45,6 +45,6 @@ Site abbreviation:
 | 19/01/05 | OJ2440 | A Simple Problem with Integers | Segment Tree | Interval Update + Interval Query |
 | 19/01/05 | POJ3259 | Wormholes | Shortest Path | Bellman Ford, find a negative weight cycle |
 | 19/01/06 | HDU1269 | Maze Castle | Graph Connectivity | Template Problem |
-|          |         |                                                              |                             |                                                    |
-|          |         |                                                              |                             |                                                    |
+| 19/03/19 | LC426 | Convert Binary Search Tree to Sorted Doubly Linked List | Binary Search Tree & Linked List | Inorder Traversal |
+| 19/03/19 | LC105 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree |                                                    |
 |          |         |                                                              |                             |                                                    |
