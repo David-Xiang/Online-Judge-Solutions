@@ -48,3 +48,5 @@ Site abbreviation:
 | 19/03/19 | LC426 | Convert Binary Search Tree to Sorted Doubly Linked List | Binary Search Tree & Linked List | Inorder Traversal |
 | 19/03/19 | LC105 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree |                                                    |
 | 19/03/20 | LC206 | Reverse Linked List | Linked List |                                                    |
+| 19/03/27 | LC929   | Unique Email Addresses                                    | String                           | HashSet                                         |
+|          |         |                                                           |                                  |                                                    |
