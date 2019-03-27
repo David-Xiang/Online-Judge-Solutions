@@ -50,8 +50,8 @@ Site abbreviation:
 | 19/03/20 | LC206 | Reverse Linked List | Linked List |                                                    |
 | 19/03/27 | LC929   | Unique Email Addresses                                    | String                           | HashSet                                         |
 | 19/03/27 | LC961 | N-Repeated Element in Size 2N Array | Search |                                                    |
-| 19/03/27 | LC977 | Squares of a Sorted Array |  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 19/03/27 | LC977 | Squares of a Sorted Array | Array |                                                    |
+| 19/03/27 | LC48 | Rotate Image | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
