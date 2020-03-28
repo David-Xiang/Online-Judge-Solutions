@@ -53,9 +53,9 @@ Site abbreviation:
 | 19/03/27 | LC977 | Squares of a Sorted Array | Array |                                                    |
 | 19/03/27 | LC48 | Rotate Image | Array |                                                    |
 | 19/03/27 | LC945 | Minimum Increment to Make Array Unique | Sort | cd |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 20/03/28 | LC144 | Binary Tree PreOrder Traversal | Tree |                                                    |
+| 20/03/28 | LC94 | Binary Tree InOrder Traversal | Tree |                                                    |
+| 20/03/28 | LC145 | Binary Tree PostOrder Traversal | Tree |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
