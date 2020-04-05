@@ -52,17 +52,31 @@ Site abbreviation:
 | 19/03/27 | LC961 | N-Repeated Element in Size 2N Array | Search |                                                    |
 | 19/03/27 | LC977 | Squares of a Sorted Array | Array |                                                    |
 | 19/03/27 | LC48 | Rotate Image | Array |                                                    |
-| 19/03/27 | LC945 | Minimum Increment to Make Array Unique | Sort | cd |
+| 19/03/27 | LC945 | Minimum Increment to Make Array Unique | Sort |  |
 | 20/03/28 | LC144 | Binary Tree PreOrder Traversal | Tree |                                                    |
 | 20/03/28 | LC94 | Binary Tree InOrder Traversal | Tree |                                                    |
 | 20/03/28 | LC145 | Binary Tree PostOrder Traversal | Tree |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 20/04/03 | LC289 | Game of Life | Bit Manipulation |                                                    |
+| 20/04/03 | LC8 | String to Integer | String |                                                    |
+| 20/04/03 | LC28 | Implement strStr() | **KMP** |                                                    |
+| 20/04/03 | LC1 | Two Sum | Array |                                                    |
+| 20/04/03 | LC2 | Add Two Numbers | Linked List |                                                    |
+| 20/04/03 | LC3 | Longest Substring Without Repeating Characters | Sliding Window |                                                    |
+| 20/04/03 | LC5 | Longest Palindromic Substring | String |                                                    |
+| 20/04/03 | LC543 | Diameter of Binary Tree | Tree |                                                    |
+| 20/04/03 | LC231 | Power of Two | Bit Manipulation |                                                    |
+| 20/04/04 | LC703 | Kth Largest Element in a Stream | Heap | Kth Largest Number |
+| 20/04/04 | LC215 | Kth Largest Element in an Array | Divide and Conquer | Kth Largest Number |
+| 20/04/04 | LC42 | Trapping Rain Water | Dynamic Programming |                                                    |
+| 20/04/04 | LC965 | Univalued Binary Tree | Tree |                                                    |
+| 20/04/04 | LC56 | Merge Intervals | Sort |                                                    |
+| 20/04/04 | LC75 | Sort Colors | Three Pointers |                                                    |
+| 20/04/05 | LC1025 | Divisor Game | Dynamic Programming |                                                    |
+| 20/04/05 | LC303 | Range Sum Query - Immutable | Dynamic Programming | Prefix Sum |
+| 20/04/05 | LC53 | Maximum Subarray | Dynamic Programming |                                                    |
+| 20/04/05 | LC70 | Climbing Stairs | Dynamic Programming |                                                    |
+| 20/04/05 | LC121 | Best Time to Buy and Sell Stock | Dynamic Programming |                                                    |
+| 20/04/05 | LC122 | Best Time to Buy and Sell Stock II | Dynamic Programming |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
