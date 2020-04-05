@@ -75,12 +75,12 @@ Site abbreviation:
 | 20/04/05 | LC303 | Range Sum Query - Immutable | Dynamic Programming | Prefix Sum |
 | 20/04/05 | LC53 | Maximum Subarray | Dynamic Programming |                                                    |
 | 20/04/05 | LC70 | Climbing Stairs | Dynamic Programming |                                                    |
-| 20/04/05 | LC121 | Best Time to Buy and Sell Stock | Dynamic Programming |                                                    |
-| 20/04/05 | LC122 | Best Time to Buy and Sell Stock II | Dynamic Programming |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 20/04/05 | LC121 | Best Time to Buy and Sell Stock | Dynamic Programming | 1 Transaction |
+| 20/04/05 | LC122 | Best Time to Buy and Sell Stock II | Dynamic Programming | Infinite Transactions |
+| 20/04/05 | LC123 | Best Time to Buy and Sell Stock III | Dynamic Programming | 2 Transactions |
+| 20/04/05 | LC188 | Best Time to Buy and Sell Stock IV | Dynamic Programming | k Transactions |
+| 20/04/05 | LC309 | Best Time to Buy and Sell Stock with Cooldown | Dynamic Programming | Infinite Transactions with Cooldown |
+| 20/04/05 | LC714 | Best Time to Buy and Sell Stock with Transaction Fee | Dynamic Programming | Infinite Transactions |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
