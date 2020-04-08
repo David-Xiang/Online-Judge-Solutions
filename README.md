@@ -9,6 +9,7 @@ Site abbreviation:
 
 - `OP`: http://openjudge.cn
 - `LC`: https://leetcode.com
+- `LCOF`: https://leetcode-cn.com/problemset/lcof/
 - `HDU`: http://acm.hdu.edu.cn
 - `POJ`: http://poj.org
 
@@ -81,6 +82,19 @@ Site abbreviation:
 | 20/04/05 | LC188 | Best Time to Buy and Sell Stock IV | Dynamic Programming | k Transactions |
 | 20/04/05 | LC309 | Best Time to Buy and Sell Stock with Cooldown | Dynamic Programming | Infinite Transactions with Cooldown |
 | 20/04/05 | LC714 | Best Time to Buy and Sell Stock with Transaction Fee | Dynamic Programming | Infinite Transactions |
+| 20/04/08 | LCOF13 | Range of Robot | BFS |                                                    |
+| 20/04/08 | LCOF03 | Repeated Number in Array | Array |                                                    |
+| 20/04/08 | LCOF04 | Search a 2D Matrix | Array |                                                    |
+| 20/04/08 | LCOF05 | Replace Space | String |                                                    |
+| 20/04/08 | LCOF06 | Reverse LinkedList | Linked List |                                                    |
+| 20/04/08 | LCOF07 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree |                                                    |
+| 20/04/08 | LCOF09 | Queue by Two Stack | Stack |                                                    |
+| 20/04/08 | LCOF10 | Fibonacci & Climbing Stairs |  |                                                    |
+| 20/04/08 | LC46 | Permutations | Backtracing |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
