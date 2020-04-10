@@ -91,6 +91,25 @@ Site abbreviation:
 | 20/04/08 | LCOF09 | Queue by Two Stack | Stack |                                                    |
 | 20/04/08 | LCOF10 | Fibonacci & Climbing Stairs |  |                                                    |
 | 20/04/08 | LC46 | Permutations | Backtracing |                                                    |
+| 20/04/09 | LC22 | Generate Parentheses | Backtracing |                                                    |
+| 20/04/09 | LCOF11 | Find Minimum in Rotated Sorted Array | Binary Search |                                                    |
+| 20/04/09 | LCOF12 | Word Search | Backtracing |                                                    |
+| 20/04/10 | LC151 | Reverse Words in a String | String |                                                    |
+| 20/04/10 | LCOF14 | Cutting Rope | Dynamic Programming/Greedy |                                                    |
+| 20/04/10 | LCOF15 | Number of 1 Bits | Bit Manipulation                 |                                                    |
+| 20/04/10 | LCOF16 | Pow(x, n) | Math |                                                    |
+| 20/04/10 | LCOF17 | Print 1 to n | Math |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
