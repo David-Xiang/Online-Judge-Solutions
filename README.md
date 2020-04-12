@@ -99,9 +99,9 @@ Site abbreviation:
 | 20/04/10 | LCOF15 | Number of 1 Bits | Bit Manipulation                 |                                                    |
 | 20/04/10 | LCOF16 | Pow(x, n) | Math |                                                    |
 | 20/04/10 | LCOF17 | Print 1 to n | Math |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 20/04/12 | LCOF18 | Delete Node | Linked List |                                                    |
+| 20/04/12 | LCOF19 | Regular Expression Matching | Dynamic Programming |                                                    |
+| 20/04/12 | LCOF20 | Valid Number | Finite State Machine |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
