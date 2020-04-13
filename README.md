@@ -102,9 +102,9 @@ Site abbreviation:
 | 20/04/12 | LCOF18 | Delete Node | Linked List |                                                    |
 | 20/04/12 | LCOF19 | Regular Expression Matching | Dynamic Programming |                                                    |
 | 20/04/12 | LCOF20 | Valid Number | Finite State Machine |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 20/04/13 | LCOF21 | Exchange Even and Odd | Array                            |                                                    |
+| 20/04/13 | LCOF22 | Last K Node in Linked List | Linked List |                                                    |
+| 20/04/13 | LCOF23 | Reverse Linked List | Linked List |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
