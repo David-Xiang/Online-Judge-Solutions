@@ -1,11 +1,11 @@
 /**
- * LeetCodeOffer 23 Easy
+ * LeetCodeOffer 24 Easy
  * Reverse Linked List
  * Linked List
  * Remarks
  */
 
-public class LCOF23 {
+public class LCOF24 {
     public static void main(String [] args){
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);

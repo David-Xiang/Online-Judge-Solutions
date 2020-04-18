@@ -104,7 +104,22 @@ Site abbreviation:
 | 20/04/12 | LCOF20 | Valid Number | Finite State Machine |                                                    |
 | 20/04/13 | LCOF21 | Exchange Even and Odd | Array                            |                                                    |
 | 20/04/13 | LCOF22 | Last K Node in Linked List | Linked List |                                                    |
-| 20/04/13 | LCOF23 | Reverse Linked List | Linked List |                                                    |
+| 20/04/13 | LCOF24 | Reverse Linked List | Linked List |                                                    |
+| 20/04/17 | LCOF25 | Merge Two Sorted Lists | Linked List |                                                    |
+| 20/04/18 | LCOF26 | Substructure of a Tree | Tree |                                                    |
+| 20/04/18 | LCOF27 | Invert Binary Tree | Tree |                                                    |
+| 20/04/18 | LCOF28 | Symmetric Tree | Tree |                                                    |
+| 20/04/18 | LCOF29 | Spiral Matrix | Array |                                                    |
+| 20/04/18 | LCOF30 | Min Stack                                                 | Stack |                                                    |
+| 20/04/18 | LCOF31 | Validate Stack Sequences | Stack |                                                    |
+| 20/04/18 | LCOF32-I | Print Tree in Level Order | Tree |                                                    |
+| 20/04/18 | LCOF32-II | Print Tree in Level Order | Tree |                                                    |
+| 20/04/18 | LCOF32-III | Print Tree in Level Order | Tree |                                                    |
+| 20/04/18 | LCOF33 | Verify Postorder | Tree |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
