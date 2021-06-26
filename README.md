@@ -116,13 +116,13 @@ Site abbreviation:
 | 20/04/18 | LCOF32-II | Print Tree in Level Order | Tree |                                                    |
 | 20/04/18 | LCOF32-III | Print Tree in Level Order | Tree |                                                    |
 | 20/04/18 | LCOF33 | Verify Postorder | Tree |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/06/26 | LCOF34 | Path Sum II | Tree/Backtracing |                                                    |
+| 21/06/26 | LCOF35 | Copy List with Random Pointer | Linked List |                                                    |
+| 21/06/26 | LCOF36 | Convert Binary Search Tree to Sorted Doubly Linked List | Tree |                                                    |
+| 21/06/26 | LCOF37 | Serialize and Deserialize Binary Tree | Tree |                                                    |
+| 21/06/26 | LCOF38 | Permutation of a String | DFS/Backtracing |                                                    |
+| 21/06/26 | LCOF39 | Majority Element | Array |                                                    |
+| 21/06/26 | LCOF40 | Least K Numbers | Sort |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
