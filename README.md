@@ -123,7 +123,7 @@ Site abbreviation:
 | 21/06/26 | LCOF38 | Permutation of a String | DFS/Backtracing |                                                    |
 | 21/06/26 | LCOF39 | Majority Element | Array |                                                    |
 | 21/06/26 | LCOF40 | Least K Numbers | Sort |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/03 | LCOF10-I | Fibonacci | Binary Exponentiation |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
