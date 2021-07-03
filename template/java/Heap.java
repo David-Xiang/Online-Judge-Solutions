@@ -1,3 +1,4 @@
+package java;
 public class Heap {
     // 最小堆
     private int [] val;
