@@ -124,8 +124,8 @@ Site abbreviation:
 | 21/06/26 | LCOF39 | Majority Element | Array |                                                    |
 | 21/06/26 | LCOF40 | Least K Numbers | Sort |                                                    |
 | 21/07/03 | LCOF10-I | Fibonacci | Binary Exponentiation |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/06 | LCOF42 | Maximum Subarray | Dynamic Programming |                                                    |
+| 21/07/06 | LCOF45 | Smallest Number | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
