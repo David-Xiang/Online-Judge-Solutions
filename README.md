@@ -126,8 +126,8 @@ Site abbreviation:
 | 21/07/03 | LCOF10-I | Fibonacci | Binary Exponentiation |                                                    |
 | 21/07/06 | LCOF42 | Maximum Subarray | Dynamic Programming |                                                    |
 | 21/07/06 | LCOF45 | Smallest Number | Array |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/10 | LCOF41 | Find Median from Data Stream | Heap |                                                    |
+| 21/07/11 | LCOF46 | Ways of Translations | Dynamic Programming |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
