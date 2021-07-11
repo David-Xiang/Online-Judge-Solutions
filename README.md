@@ -127,7 +127,22 @@ Site abbreviation:
 | 21/07/06 | LCOF42 | Maximum Subarray | Dynamic Programming |                                                    |
 | 21/07/06 | LCOF45 | Smallest Number | Array |                                                    |
 | 21/07/10 | LCOF41 | Find Median from Data Stream | Heap |                                                    |
-| 21/07/11 | LCOF46 | Ways of Translations | Dynamic Programming |                                                    |
+| 21/07/10 | LCOF46 | Ways of Translations | Dynamic Programming |                                                    |
+| 21/07/11 | LCOF43     | Number of Digit One                                       | Math                              |                                                    |
+| 21/07/11 | LCOF44     | Nth Digit                                                 | Math                              |                                                    |
+| 21/07/11 | LCOF47     | Max Value of Gifts                                        | Dynamic Programming               |                                                    |
+| 21/07/11 | LCOF48 | Longest Substring without Repeating Characters | Dynamic Programming |                                                    |
+| 21/07/11 | LCOF49     | Ugly Number II                                            | Dynamic Programming, Two Pointers |                                                    |
+| 21/07/11 | LCOF50 | First Unique Character | Array                             |                                                    |
+| 21/07/11 | LCOF51 | Reverse Pairs | Sort |                                                    |
+| 21/07/11 | LCOF52 | Intersection of Two Linked Lists | Two Pointers | Mind the iterate rule |
+| 21/07/11 | LCOF53-I | Find First and Last Position of Element in Sorted Array | Binary Search |                                                    |
+| 21/07/11 | LCOF53-II | Missing Number | Binary Search |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
