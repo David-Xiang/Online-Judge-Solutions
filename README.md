@@ -138,9 +138,9 @@ Site abbreviation:
 | 21/07/11 | LCOF52 | Intersection of Two Linked Lists | Two Pointers | Mind the iterate rule |
 | 21/07/11 | LCOF53-I | Find First and Last Position of Element in Sorted Array | Binary Search |                                                    |
 | 21/07/11 | LCOF53-II | Missing Number | Binary Search |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/12 | LCOF54 | Kth Largest Node in Binary Search Tree | Binary Search Trees |                                                    |
+| 21/07/12 | LCOF55-I | Maximum Depth of Binary Tree | Tree |                                                    |
+| 21/07/12 | LCOF55-II | Balanced Binary Tree | Tree |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
