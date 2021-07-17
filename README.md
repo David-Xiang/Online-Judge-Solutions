@@ -141,6 +141,18 @@ Site abbreviation:
 | 21/07/12 | LCOF54 | Kth Largest Node in Binary Search Tree | Binary Search Trees |                                                    |
 | 21/07/12 | LCOF55-I | Maximum Depth of Binary Tree | Tree |                                                    |
 | 21/07/12 | LCOF55-II | Balanced Binary Tree | Tree |                                                    |
+| 21/07/18 | LCOF56-I | Find Single Numbers in Array | Bit Manipulation |                                                    |
+| 21/07/18 | LCOF56-II | Find Single Number in Array | Bit Manipulation |                                                    |
+| 21/07/18 | LCOF57-I | Two Sum | Two Pointers |                                                    |
+| 21/07/18 | LCOF57-II | Find Continuous Sequence | Two Pointers, Sliding Window |                                                    |
+| 21/07/18 | LCOF58 | Reverse Words in a String | String, Two Pointers |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
