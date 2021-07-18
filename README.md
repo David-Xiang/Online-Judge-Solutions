@@ -145,12 +145,12 @@ Site abbreviation:
 | 21/07/18 | LCOF56-II | Find Single Number in Array | Bit Manipulation |                                                    |
 | 21/07/18 | LCOF57-I | Two Sum | Two Pointers |                                                    |
 | 21/07/18 | LCOF57-II | Find Continuous Sequence | Two Pointers, Sliding Window |                                                    |
-| 21/07/18 | LCOF58 | Reverse Words in a String | String, Two Pointers |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/18 | LCOF58-I | Reverse Words in a String | String, Two Pointers |                                                    |
+| 21/07/18 | LCOF58-II | Reverse Left Words in a String | String |                                                    |
+| 21/07/18 | LCOF59-I | Sliding Window Maximum | Sliding Window, Monotonous Queue |                                                    |
+| 21/07/18 | LCOF59-II | Max Value in A Queue | Monotonous Queue |                                                    |
+| 21/07/18 | LCOF60 | Dices Probability | Dynamic Programming |                                                    |
+| 21/07/18 | LCOF61 | Straight | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
