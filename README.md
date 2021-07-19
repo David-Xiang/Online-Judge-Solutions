@@ -160,7 +160,7 @@ Site abbreviation:
 | 21/07/19 | LCOF67 | String to Integer | String |                                                    |
 | 21/07/19 | LCOF68-I | Lowest Common Ancestor of a Binary Search Tree | Tree |                                                    |
 | 21/07/19 | LCOF68-II | Lowest Common Ancestor of a Binary Tree | Tree |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/20 | LC1877 | Minimize Maximum Pair Sum in Array | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
