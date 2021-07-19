@@ -151,7 +151,15 @@ Site abbreviation:
 | 21/07/18 | LCOF59-II | Max Value in A Queue | Monotonous Queue |                                                    |
 | 21/07/18 | LCOF60 | Dices Probability | Dynamic Programming |                                                    |
 | 21/07/18 | LCOF61 | Straight | Array |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/19 | LC1838 | Frequency of the Most Frequent Element | Two Pointers |                                                    |
+| 21/07/19 | LCOF62 | Last Remaining | Math |                                                    |
+| 21/07/19 | LCOF63 | Best Time to Buy and Sell Stock | Dynamic Programming |                                                    |
+| 21/07/19 | LCOF64 | Sum Sums | Bit Manipulation |                                                    |
+| 21/07/19 | LCOF65 | Add | Bit Manipulation |                                                    |
+| 21/07/19 | LCOF66 | Construct Array | Array |                                                    |
+| 21/07/19 | LCOF67 | String to Integer | String |                                                    |
+| 21/07/19 | LCOF68-I | Lowest Common Ancestor of a Binary Search Tree | Tree |                                                    |
+| 21/07/19 | LCOF68-II | Lowest Common Ancestor of a Binary Tree | Tree |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
