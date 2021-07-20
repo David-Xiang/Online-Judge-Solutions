@@ -161,6 +161,27 @@ Site abbreviation:
 | 21/07/19 | LCOF68-I | Lowest Common Ancestor of a Binary Search Tree | Tree |                                                    |
 | 21/07/19 | LCOF68-II | Lowest Common Ancestor of a Binary Tree | Tree |                                                    |
 | 21/07/20 | LC1877 | Minimize Maximum Pair Sum in Array | Array |                                                    |
+| 21/07/20 | LC122 | Best Time to Buy and Sell Stock II | Dynamic Programming |                                                    |
+| 21/07/20 | LC198 | House Robber | Dynamic Programming |                                                    |
+| 21/07/20 | LC62 | Unique Paths | Dynamic Programming |                                                    |
+| 21/07/20 | LC55 | Jump Game | Dynamic Programming |                                                    |
+| 21/07/20 | LC64 | Minimum Path Sum | Dynamic Programming |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
