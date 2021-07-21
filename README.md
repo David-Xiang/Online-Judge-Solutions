@@ -166,13 +166,13 @@ Site abbreviation:
 | 21/07/20 | LC62 | Unique Paths | Dynamic Programming |                                                    |
 | 21/07/20 | LC55 | Jump Game | Dynamic Programming |                                                    |
 | 21/07/20 | LC64 | Minimum Path Sum | Dynamic Programming |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/21 | LC300 | Longest Increasing Subsequence | Dynamic Programming |                                                    |
+| 21/07/21 | LC322 | Coin Change                                               | Dynamic Programming |                                                    |
+| 21/07/21 | LC63 | Unique Paths II | Dynamic Programming |                                                    |
+| 21/07/21 | LC118      | Pascal's Triangle                                         | Dynamic Programming               |                                                    |
+| 21/07/21 | LC392 | Is Subsequence | Dynamic Programming |                                                    |
+| 21/07/21 | LC120 | Triangle | Dynamic Programming |                                                    |
+| 21/07/21 | LC91 | Decode Ways | Dynamic Programming |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
