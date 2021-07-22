@@ -173,11 +173,11 @@ Site abbreviation:
 | 21/07/21 | LC392 | Is Subsequence | Dynamic Programming |                                                    |
 | 21/07/21 | LC120 | Triangle | Dynamic Programming |                                                    |
 | 21/07/21 | LC91 | Decode Ways | Dynamic Programming |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/22 | LC45 | Jump Game II | Dynamic Programming |                                                    |
+| 21/07/22 | LC509 | Fibonacci Number | Dynamic Programming |                                                    |
+| 21/07/22 | LC213 | House Robber II | Dynamic Programming |                                                    |
+| 21/07/22 | LC96 | Unique Binary Search Trees | Dynamic Programming |                                                    |
+| 21/07/22 | LC32 | Longest Valid Parentheses | Dynamic Programming |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
