@@ -178,7 +178,7 @@ Site abbreviation:
 | 21/07/22 | LC213 | House Robber II | Dynamic Programming |                                                    |
 | 21/07/22 | LC96 | Unique Binary Search Trees | Dynamic Programming |                                                    |
 | 21/07/22 | LC32 | Longest Valid Parentheses | Dynamic Programming |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/23 | LC1893 | Check if All the Integers in a Range Are Covered | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
