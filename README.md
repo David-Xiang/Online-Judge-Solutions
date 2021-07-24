@@ -179,8 +179,8 @@ Site abbreviation:
 | 21/07/22 | LC96 | Unique Binary Search Trees | Dynamic Programming |                                                    |
 | 21/07/22 | LC32 | Longest Valid Parentheses | Dynamic Programming |                                                    |
 | 21/07/23 | LC1893 | Check if All the Integers in a Range Are Covered | Array |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/24 | LC1736 | Latest Time by Replacing Hidden Digits | String |                                                    |
+|          |         |                                                           |  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
