@@ -90,10 +90,10 @@ Site abbreviation:
 | 20/04/08 | LCOF07 | Construct Binary Tree from Preorder and Inorder Traversal | Binary Tree |                                                    |
 | 20/04/08 | LCOF09 | Queue by Two Stack | Stack |                                                    |
 | 20/04/08 | LCOF10 | Fibonacci & Climbing Stairs |  |                                                    |
-| 20/04/08 | LC46 | Permutations | Backtracing |                                                    |
-| 20/04/09 | LC22 | Generate Parentheses | Backtracing |                                                    |
+| 20/04/08 | LC46 | Permutations | Backtracking |                                                    |
+| 20/04/09 | LC22 | Generate Parentheses | Backtracking |                                                    |
 | 20/04/09 | LCOF11 | Find Minimum in Rotated Sorted Array | Binary Search |                                                    |
-| 20/04/09 | LCOF12 | Word Search | Backtracing |                                                    |
+| 20/04/09 | LCOF12 | Word Search | Backtracking |                                                    |
 | 20/04/10 | LC151 | Reverse Words in a String | String |                                                    |
 | 20/04/10 | LCOF14 | Cutting Rope | Dynamic Programming/Greedy |                                                    |
 | 20/04/10 | LCOF15 | Number of 1 Bits | Bit Manipulation                 |                                                    |
@@ -116,11 +116,11 @@ Site abbreviation:
 | 20/04/18 | LCOF32-II | Print Tree in Level Order | Tree |                                                    |
 | 20/04/18 | LCOF32-III | Print Tree in Level Order | Tree |                                                    |
 | 20/04/18 | LCOF33 | Verify Postorder | Tree |                                                    |
-| 21/06/26 | LCOF34 | Path Sum II | Tree/Backtracing |                                                    |
+| 21/06/26 | LCOF34 | Path Sum II | Tree/Backtracking |                                                    |
 | 21/06/26 | LCOF35 | Copy List with Random Pointer | Linked List |                                                    |
 | 21/06/26 | LCOF36 | Convert Binary Search Tree to Sorted Doubly Linked List | Tree |                                                    |
 | 21/06/26 | LCOF37 | Serialize and Deserialize Binary Tree | Tree |                                                    |
-| 21/06/26 | LCOF38 | Permutation of a String | DFS/Backtracing |                                                    |
+| 21/06/26 | LCOF38 | Permutation of a String | DFS/Backtracking |                                                    |
 | 21/06/26 | LCOF39 | Majority Element | Array |                                                    |
 | 21/06/26 | LCOF40 | Least K Numbers | Sort |                                                    |
 | 21/07/03 | LCOF10-I | Fibonacci | Binary Exponentiation |                                                    |
@@ -180,11 +180,11 @@ Site abbreviation:
 | 21/07/22 | LC32 | Longest Valid Parentheses | Dynamic Programming |                                                    |
 | 21/07/23 | LC1893 | Check if All the Integers in a Range Are Covered | Array |                                                    |
 | 21/07/24 | LC1736 | Latest Time by Replacing Hidden Digits | String |                                                    |
-|          |         |                                                           |  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/25 | LC1743 | Restore the Array From Adjacent Pairs | Array |                                                    |
+| 21/07/25 | LC51 | N-Queens | Backtracking |                                                    |
+| 21/07/25 | LC52 | N-Queens II | Backtracking |                                                    |
+| 21/07/25 | LC111 | Minimum Depth of Binary Tree | BFS |                                                    |
+| 21/07/25 | LC752 | Open the Lock | BFS |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
