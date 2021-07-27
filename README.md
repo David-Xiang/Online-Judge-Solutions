@@ -125,7 +125,7 @@ Site abbreviation:
 | 21/06/26 | LCOF40 | Least K Numbers | Sort |                                                    |
 | 21/07/03 | LCOF10-I | Fibonacci | Binary Exponentiation |                                                    |
 | 21/07/06 | LCOF42 | Maximum Subarray | Dynamic Programming |                                                    |
-| 21/07/06 | LCOF45 | Smallest Number | Array |                                                    |
+| 21/07/06 | LCOF45 | Smallest Number | Array | Customize sort comparator |
 | 21/07/10 | LCOF41 | Find Median from Data Stream | Heap |                                                    |
 | 21/07/10 | LCOF46 | Ways of Translations | Dynamic Programming |                                                    |
 | 21/07/11 | LCOF43     | Number of Digit One                                       | Math                              |                                                    |
@@ -185,6 +185,15 @@ Site abbreviation:
 | 21/07/25 | LC52 | N-Queens II | Backtracking |                                                    |
 | 21/07/25 | LC111 | Minimum Depth of Binary Tree | BFS |                                                    |
 | 21/07/25 | LC752 | Open the Lock | BFS |                                                    |
+| 21/07/27 | LC671 | Second Minimum Node In a Binary Tree | Tree |                                                    |
+| 21/07/27 | LC34 | Find First and Last Position of Element in Sorted Array | Binary Search |                                                    |
+| 21/07/27 | LC207 | Course Schedule | Topological Sort |                                                    |
+| 21/07/27 | LC863 | All Nodes Distance K in Binary Tree | Tree |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
