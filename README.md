@@ -189,6 +189,21 @@ Site abbreviation:
 | 21/07/27 | LC34 | Find First and Last Position of Element in Sorted Array | Binary Search |                                                    |
 | 21/07/27 | LC207 | Course Schedule | Topological Sort |                                                    |
 | 21/07/27 | LC863 | All Nodes Distance K in Binary Tree | Tree |                                                    |
+| 21/07/29 | LC1104 | Path In Zigzag Labelled Binary Tree | Math |                                                    |
+| 21/07/29 | LC146 | LRU Cache | Linked List |                                                    |
+| 21/07/29 | LC141 | Linked List Cycle | Linked List |  |
+| 21/07/29 | LC287 | Find the Duplicate Number | Array |                                                    |
+| 21/07/29 | LC200 | Number Of Islands | Union Find |                                                    |
+| 21/07/29 | LC127 | Word Ladder | BFS |  |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
+|          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
