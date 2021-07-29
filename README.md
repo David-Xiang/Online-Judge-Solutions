@@ -195,7 +195,7 @@ Site abbreviation:
 | 21/07/29 | LC287 | Find the Duplicate Number | Array |                                                    |
 | 21/07/29 | LC200 | Number Of Islands | Union Find |                                                    |
 | 21/07/29 | LC127 | Word Ladder | BFS |  |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/29 | LC171 | Excel Sheet Column Number | Array |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
