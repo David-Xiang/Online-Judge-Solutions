@@ -196,10 +196,10 @@ Site abbreviation:
 | 21/07/29 | LC200 | Number Of Islands | Union Find |                                                    |
 | 21/07/29 | LC127 | Word Ladder | BFS |  |
 | 21/07/29 | LC171 | Excel Sheet Column Number | Array |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/30 | LC23 | Merge k Sorted Lists | Heap/Priority Queue |                                                    |
+| 21/07/30 | LC210 | Course Schedule II | Topological Sort |                                                    |
+| 21/07/30 | LC329 | Longest Increasing Path in a Matrix | Dynamic Programming |                                                    |
+| 21/07/30 | LC987 | Vertical Order Traversal of a Binary Tree | Tree |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
 |          |         |                                                           |                                  |                                                    |
