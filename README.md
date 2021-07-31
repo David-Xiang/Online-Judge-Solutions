@@ -200,15 +200,15 @@ Site abbreviation:
 | 21/07/30 | LC210 | Course Schedule II | Topological Sort |                                                    |
 | 21/07/30 | LC329 | Longest Increasing Path in a Matrix | Dynamic Programming |                                                    |
 | 21/07/30 | LC987 | Vertical Order Traversal of a Binary Tree | Tree |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
-|          |         |                                                           |                                  |                                                    |
+| 21/07/31 | LC133 | Clone Graph | DFS |                                                    |
+| 21/07/31 | LC20 | Valid Parentheses | Stack |                                                    |
+| 21/07/31 | LC7 | Reverse Integer | Number |                                                    |
+| 21/07/31 | LC9 | Palindrome Number | Number |                                                    |
+| 21/07/31 | LC13 | Roman to Intege | Number |                                                    |
+| 21/07/31 | LC14 | Longest Common Prefix | String |                                                    |
+| 21/07/31 | LC26 | Remove Duplicates from Sorted Array | Array |                                                    |
+| 21/07/31 | LC27 | Remove Element | Array |                                                    |
+| 21/07/31 | LC35 | Search Insert Position | Binary Search |                                                    |
+| 21/07/31 | LC225 | Implementing Stack Using Queues | Stack/Queue |                                                    |
+|          |            |                                                           |                                   |                                                 |
+|          |            |                                                           |                                   |                                                    |
