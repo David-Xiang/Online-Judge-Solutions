@@ -210,5 +210,39 @@ Site abbreviation:
 | 21/07/31 | LC27 | Remove Element | Array |                                                    |
 | 21/07/31 | LC35 | Search Insert Position | Binary Search |                                                    |
 | 21/07/31 | LC225 | Implementing Stack Using Queues | Stack/Queue |                                                    |
-|          |            |                                                           |                                   |                                                 |
+| 21/08/01 | LC17 | Letter Combinations of a Phone Number | DFS |                                                 |
+| 21/08/01 | LC19 | Remove Nth Node From End of List | Linked List |                                                    |
+| 21/08/01 | LC66 | Plus One | Array |                                                    |
+| 21/08/01 | LC88 | Merge Sorted Array | Array                             |                                                    |
+| 21/08/01 | LC283 | Move Zeros | Array |                                                    |
+| 21/08/01 | LC1337 | The K Weakest Rows in a Matrix | Array |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
+|          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
