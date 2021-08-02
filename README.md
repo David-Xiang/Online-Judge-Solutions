@@ -216,7 +216,7 @@ Site abbreviation:
 | 21/08/01 | LC88 | Merge Sorted Array | Array                             |                                                    |
 | 21/08/01 | LC283 | Move Zeros | Array |                                                    |
 | 21/08/01 | LC1337 | The K Weakest Rows in a Matrix | Array |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/02 | LC743 | Network Delay Time | Shortest Path |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
