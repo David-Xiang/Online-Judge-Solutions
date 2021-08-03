@@ -217,9 +217,9 @@ Site abbreviation:
 | 21/08/01 | LC283 | Move Zeros | Array |                                                    |
 | 21/08/01 | LC1337 | The K Weakest Rows in a Matrix | Array |                                                    |
 | 21/08/02 | LC743 | Network Delay Time | Shortest Path |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/03 | LC581 | Shortest Unsorted Continuous Subarray | Array |                                                    |
+| 21/08/03 | LC13 | Container With Most Water | Two Pointer |                                                    |
+| 21/08/03 | LC15 | 3Sum | Two Pointer |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
