@@ -220,10 +220,10 @@ Site abbreviation:
 | 21/08/03 | LC581 | Shortest Unsorted Continuous Subarray | Array |                                                    |
 | 21/08/03 | LC13 | Container With Most Water | Two Pointer |                                                    |
 | 21/08/03 | LC15 | 3Sum | Two Pointer |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/06 | LC847 | Shortest Path Visiting All Nodes | Graph/BFS |                                                    |
+| 21/08/06 | LC104 | Maximum Depth of Binary Tree | Tree |                                                    |
+| 21/08/06 | LC24 | Swap Nodes in Pairs                                       | Linked List |                                                    |
+| 21/08/06 | LC102 | Binary Tree Level Order Traversal | Tree |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
