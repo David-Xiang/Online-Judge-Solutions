@@ -227,14 +227,14 @@ Site abbreviation:
 | 21/08/07 | LC6 | ZigZag Conversion | String |                                                    |
 | 21/08/07 | LC58 | Length of Last Word | Array |                                                    |
 | 21/08/07 | LC457 | Circular Array Loop | Array |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/08 | LC1137 | N-th Tribonacci Number | Array |                                                    |
+| 21/08/08 | LC38 | Count and Say | String |                                                    |
+| 21/08/08 | LC136 | Single Number | Bit Manipulation |                                                    |
+| 21/08/08 | LC101 | Symmetric Tree | Tree |                                                    |
+| 21/08/08 | LC169 | Major Element | Array |                                                    |
+| 21/08/08 | LC92 | Reverse Linked List II | Linked List |                                                    |
+| 21/08/08 | LC1584 | Min Cost to Connect All Points | Minimum Spanning Tree | Kruskal With Union Find and Heap |
+| 21/08/08 | LC918 | Maximum Sum Circular Subarray | Dynamic Programming/Monotonic Queue |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
