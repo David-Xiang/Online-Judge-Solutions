@@ -235,11 +235,11 @@ Site abbreviation:
 | 21/08/08 | LC92 | Reverse Linked List II | Linked List |                                                    |
 | 21/08/08 | LC1584 | Min Cost to Connect All Points | Minimum Spanning Tree | Kruskal With Union Find and Heap |
 | 21/08/08 | LC918 | Maximum Sum Circular Subarray | Dynamic Programming/Monotonic Queue |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/09 | LC313 | Super Ugly Number                                         | Math |                                                    |
+| 21/08/09 | LC31 | Next Permutation | Array |                                                    |
+| 21/08/09 | LC912 | Sort an Array | Sort |                                                    |
+| 21/08/09 | LC739 | Daily Temperatures | Monotonic Stack |                                                    |
+| 21/08/09 | LC98 | Validate Binary Search Tree | BST |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
