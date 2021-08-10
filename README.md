@@ -240,7 +240,7 @@ Site abbreviation:
 | 21/08/09 | LC912 | Sort an Array | Sort |                                                    |
 | 21/08/09 | LC739 | Daily Temperatures | Monotonic Stack |                                                    |
 | 21/08/09 | LC98 | Validate Binary Search Tree | BST |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 21/08/10 | LC413 | Arithmetic Slices | Dynamic Programming |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
