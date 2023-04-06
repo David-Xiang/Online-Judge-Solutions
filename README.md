@@ -241,8 +241,8 @@ Site abbreviation:
 | 21/08/09 | LC739 | Daily Temperatures | Monotonic Stack |                                                    |
 | 21/08/09 | LC98 | Validate Binary Search Tree | BST |                                                    |
 | 21/08/10 | LC413 | Arithmetic Slices | Dynamic Programming |                                                    |
-|          |            |                                                           |                                   |                                                    |
-|          |            |                                                           |                                   |                                                    |
+| 23/04/06 | LC57 | Insert Interval | Simulation | 更简单的思路是，把插入这件事分成三个步骤，1复制区间前的所有，2合并有交集的区间，3复制区间后的所有 |
+| 23/04/06 | LC78 | Subsets | DFS | BFS其实更简单，可以用递推生成 |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
 |          |            |                                                           |                                   |                                                    |
