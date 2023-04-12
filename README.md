@@ -245,4 +245,19 @@ Site abbreviation:
 | 23/04/06 | LC78 | Subsets | DFS | BFS其实更简单，可以用递推生成 |
 | 23/04/10 | LC1019 | Next Greater Node in Linked List | Monotonic Stack | 单调栈套路题 |
 | 23/04/11 | LC1041 | Robot Bounded In Circle | Simulation | 模拟 |
-| 23/04/11 | LC140 | Word Break II | Recursion |  |
+| 23/04/11 | LC140 | Word Break II | Recurrsion |  |
+| 23/04/12 | LC1147     | Longest Chunked Palindrome Decomposition                  | Greedy                              | 边界条件比较费劲                                             |
+| 23/04/12 | LC2458 | Height of Binary Tree After Subtree Removal Queries | Tree                        | 还有问题                                         |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
