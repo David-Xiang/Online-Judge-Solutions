@@ -248,7 +248,7 @@ Site abbreviation:
 | 23/04/11 | LC140 | Word Break II | Recurrsion |  |
 | 23/04/12 | LC1147     | Longest Chunked Palindrome Decomposition                  | Greedy                              | 边界条件比较费劲                                             |
 | 23/04/12 | LC2458 | Height of Binary Tree After Subtree Removal Queries | Tree                        | 还有问题                                         |
-|          |            |                                                           |                                     |  |
+| 23/04/13 | LC2404 | Most Frequent Even Element | Array |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
