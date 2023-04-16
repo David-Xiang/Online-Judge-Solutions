@@ -249,8 +249,8 @@ Site abbreviation:
 | 23/04/12 | LC1147     | Longest Chunked Palindrome Decomposition                  | Greedy                              | 边界条件比较费劲                                             |
 | 23/04/12 | LC2458 | Height of Binary Tree After Subtree Removal Queries | Tree                        | 还有问题                                         |
 | 23/04/13 | LC2404 | Most Frequent Even Element | Array |  |
-|          |            |                                                           |                                     |  |
-|          |            |                                                           |                                     |  |
+| 23/04/14 | LC1023 | Camelcase Matching | Two Pointer |  |
+| 23/04/16 | LC1042 | Flower Planting With No Adjacent | BFS |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
