@@ -251,8 +251,8 @@ Site abbreviation:
 | 23/04/13 | LC2404 | Most Frequent Even Element | Array |  |
 | 23/04/14 | LC1023 | Camelcase Matching | Two Pointer |  |
 | 23/04/16 | LC1042 | Flower Planting With No Adjacent | BFS |  |
-|          |            |                                                           |                                     |  |
-|          |            |                                                           |                                     |  |
+| 23/04/17 | LC2409 | Count Days Spent Together | Simulation |  |
+| 23/04/17 | LC934 | Shortest Bridge | BFS |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
