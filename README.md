@@ -253,8 +253,8 @@ Site abbreviation:
 | 23/04/16 | LC1042 | Flower Planting With No Adjacent | BFS |  |
 | 23/04/17 | LC2409 | Count Days Spent Together | Simulation |  |
 | 23/04/17 | LC934 | Shortest Bridge | BFS |  |
-|          |            |                                                           |                                     |  |
-|          |            |                                                           |                                     |  |
+| 23/04/18 | LC1026 | Maximum Difference Between Node and Ancestor | DFS |  |
+| 23/04/18 | LC2139 | Minimum Moves to Reach Target Score | Recurrsion |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
