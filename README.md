@@ -255,7 +255,7 @@ Site abbreviation:
 | 23/04/17 | LC934 | Shortest Bridge | BFS |  |
 | 23/04/18 | LC1026 | Maximum Difference Between Node and Ancestor | DFS |  |
 | 23/04/18 | LC2139 | Minimum Moves to Reach Target Score | Recurrsion |  |
-|          |            |                                                           |                                     |  |
+| 23/04/19 | LC1043 | Partition Array for Maximum Sum | Dynamic Programming |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
