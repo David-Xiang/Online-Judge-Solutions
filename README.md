@@ -259,7 +259,7 @@ Site abbreviation:
 | 23/04/20 | LC1187 | Make Array Strictly Increasing | Dynamic Programming | 几种DP的思路，还需要预优化。另一种思路是，DP表示当前子序列，替换操作n次之后，结尾数的最小值。 |
 | 23/04/22 | LC1027 | Longest Arithmetic Subsequence | Dynamic Programming |  |
 | 23/04/23 | LC1105 | Filling Bookcase Shelves | Dynamic Programming |  |
-|          |            |                                                           |                                     |  |
+| 23/04/25 | LC2418 | Sort the People | Simulation |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
