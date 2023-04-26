@@ -260,7 +260,7 @@ Site abbreviation:
 | 23/04/22 | LC1027 | Longest Arithmetic Subsequence | Dynamic Programming |  |
 | 23/04/23 | LC1105 | Filling Bookcase Shelves | Dynamic Programming |  |
 | 23/04/25 | LC2418 | Sort the People | Simulation |  |
-|          |            |                                                           |                                     |  |
+| 23/04/26 | LC1206 | Design Skiplist                                           | Skiplist                            |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
