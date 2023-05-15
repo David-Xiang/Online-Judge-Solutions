@@ -262,7 +262,7 @@ Site abbreviation:
 | 23/04/25 | LC2418 | Sort the People | Simulation |  |
 | 23/04/26 | LC1206 | Design Skiplist                                           | Skiplist                            |  |
 | 23/04/27 | LC1048 | Longest String Chain | Dynamic Programming |  |
-| 23/04/27 | LC1172 | Dinner Plate Stacks | Heap |  |
-|          |            |                                                           |                                     |  |
-|          |            |                                                           |                                     |  |
+| 23/04/28 | LC1172 | Dinner Plate Stacks | Heap |  |
+| 23/05/15 | LC1072 | Flip Columns For Maximum Number of Equal Rows | Simulation |  |
+| 23/05/15 | LC34 | Find First and Last Position of Element in Sorted Array   | Binary Search | 经典题目，见笔记 |
 |          |            |                                                           |                                     |  |
