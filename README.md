@@ -265,4 +265,12 @@ Site abbreviation:
 | 23/04/28 | LC1172 | Dinner Plate Stacks | Heap |  |
 | 23/05/15 | LC1072 | Flip Columns For Maximum Number of Equal Rows | Simulation |  |
 | 23/05/15 | LC34 | Find First and Last Position of Element in Sorted Array   | Binary Search | 经典题目，见笔记 |
+| 23/05/16 | LC1335 | 工作计划的最低难度 | Dynamic Programming |  |
+| 23/05/16 | LC76 | Minimum Window Substring | Sliding Window |                                                              |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
+|          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
