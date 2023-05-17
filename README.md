@@ -267,7 +267,7 @@ Site abbreviation:
 | 23/05/15 | LC34 | Find First and Last Position of Element in Sorted Array   | Binary Search | 经典题目，见笔记 |
 | 23/05/16 | LC1335 | 工作计划的最低难度 | Dynamic Programming |  |
 | 23/05/16 | LC76 | Minimum Window Substring | Sliding Window |                                                              |
-|          |            |                                                           |                                     |  |
+| 23/05/17 | LC528 | Random Pick with Weight | Prefix Sum & Binary Search |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
