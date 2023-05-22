@@ -268,8 +268,8 @@ Site abbreviation:
 | 23/05/16 | LC1335 | 工作计划的最低难度 | Dynamic Programming |  |
 | 23/05/16 | LC76 | Minimum Window Substring | Sliding Window |                                                              |
 | 23/05/17 | LC528 | Random Pick with Weight | Prefix Sum & Binary Search |  |
-|          |            |                                                           |                                     |  |
-|          |            |                                                           |                                     |  |
+| 23/05/22 | LC1080 | Insufficient Nodes in Root to Leaf Paths | Tree |  |
+| 23/05/22 | LC710 | Random Pick with Blacklist | Array | 随机选取元素，需要把元素紧密放到一个数组中，移动数据可以构造映射 |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
