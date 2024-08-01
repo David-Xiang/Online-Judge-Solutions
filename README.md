@@ -270,7 +270,7 @@ Site abbreviation:
 | 23/05/17 | LC528 | Random Pick with Weight | Prefix Sum & Binary Search |  |
 | 23/05/22 | LC1080 | Insufficient Nodes in Root to Leaf Paths | Tree |  |
 | 23/05/22 | LC710 | Random Pick with Blacklist | Array | 随机选取元素，需要把元素紧密放到一个数组中，移动数据可以构造映射 |
-|          |            |                                                           |                                     |  |
+| 24/08/01 | LC591 | Tag Validator | String | 简单代码解析 |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
 |          |            |                                                           |                                     |  |
