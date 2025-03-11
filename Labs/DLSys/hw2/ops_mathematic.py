@@ -17,7 +17,7 @@ import numpy as array_api
 
 class EWiseAdd(TensorOp):
     def compute(self, a: NDArray, b: NDArray):
-        assert(a.shape == b.shape)
+        assert a.shape == b.shape
         return a + b
 
     def gradient(self, out_grad: Tensor, node: Tensor):
@@ -45,7 +45,7 @@ def add_scalar(a, scalar):
 
 class EWiseMul(TensorOp):
     def compute(self, a: NDArray, b: NDArray):
-        assert(a.shape == b.shape)
+        assert a.shape == b.shape
         return a * b
 
     def gradient(self, out_grad: Tensor, node: Tensor):
@@ -76,8 +76,8 @@ class EWisePow(TensorOp):
     """Op to element-wise raise a tensor to a power."""
 
     def compute(self, a: NDArray, b: NDArray) -> NDArray:
-        assert(a.shape == b.shape)
-        return array_api.power(a, b)
+        assert a.shape == b.shape
+        return a**b
 
     def gradient(self, out_grad, node):
         a, b = node.inputs
@@ -117,8 +117,8 @@ class EWiseDiv(TensorOp):
     """Op to element-wise divide two nodes."""
 
     def compute(self, a, b):
-        assert(a.shape == b.shape)
-        return array_api.divide(a, b)
+        assert a.shape == b.shape
+        return a / b
 
     def gradient(self, out_grad, node):
         a, b = node.inputs
@@ -214,12 +214,14 @@ class Summation(TensorOp):
 
     def compute(self, a):
         # axes = [0], m,n,p -> n,p
-        res =  array_api.sum(a, axis=self.axes)
+        res = array_api.sum(a, axis=self.axes)
         return res
 
     def gradient(self, out_grad, node):
         input_shape = node.inputs[0].shape  # (m,n,p)
-        axes = self.axes or tuple(range(len(input_shape))) # axes为None表示对所有axes求和
+        axes = self.axes or tuple(
+            range(len(input_shape))
+        )  # axes为None表示对所有axes求和
         # 如果在某个axe上求和，那梯度就要broadcast到这个axe的每一个分量
         normalized_shape = tuple(
             [1 if i in axes else input_shape[i] for i in range(len(input_shape))]
@@ -230,6 +232,8 @@ class Summation(TensorOp):
 
 
 def summation(a, axes=None):
+    if isinstance(axes, int):  # hw4 test case问题
+        axes = (axes,)
     return Summation(axes)(a)
 
 
@@ -238,7 +242,7 @@ class MatMul(TensorOp):
         # (m, n) * (n, k) -> (m, k)
         # (t, m, n) * (t, n, k) -> (t, m, k)
         # (t, m, n) * (n, k) -> (t, m, k)
-        return array_api.matmul(a, b)
+        return a @ b
 
     def gradient(self, out_grad: Tensor, node):
         a, b = node.inputs
@@ -261,7 +265,7 @@ def matmul(a, b):
 
 class Negate(TensorOp):
     def compute(self, a):
-        return array_api.negative(a)
+        return -a
 
     def gradient(self, out_grad, node):
         # return negate(out_grad)

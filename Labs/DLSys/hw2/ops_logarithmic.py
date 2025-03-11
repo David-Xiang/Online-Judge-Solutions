@@ -10,7 +10,7 @@ import numpy as array_api
 class LogSoftmax(TensorOp):
     def compute(self, Z):
         assert len(Z.shape) == 2
-        Z_max = array_api.max(Z, axis=1, keepdims=True)
+        Z_max = Z.max(axis=1, keepdims=True)
         Z_max_broadcast = array_api.broadcast_to(Z_max, Z.shape)
         exp = array_api.exp(Z - Z_max)
         exp_sum = array_api.broadcast_to(
@@ -45,7 +45,7 @@ class Max(TensorOp):
         self.axes = axes
 
     def compute(self, Z):
-        return array_api.max(Z, axis=self.axes)
+        return Z.max(axis=self.axes)
 
 
 def max(a, axes=None):
@@ -61,9 +61,10 @@ class LogSumExp(TensorOp):
         normalized_shape = tuple(
             [1 if i in axes else Z.shape[i] for i in range(len(Z.shape))]
         )
-        Z_max = array_api.max(Z, self.axes)
+        Z_max = Z.max(self.axes)
         Z_max_reshape = array_api.reshape(Z_max, normalized_shape)
-        exp_sum = array_api.sum(array_api.exp(Z - Z_max_reshape), axis=self.axes)
+        Z_max_broadcast = array_api.broadcast_to(Z_max_reshape, Z.shape)
+        exp_sum = array_api.sum(array_api.exp(Z - Z_max_broadcast), axis=self.axes)
         return array_api.log(exp_sum) + Z_max
 
     def gradient(self, out_grad, node):
@@ -83,5 +84,7 @@ class LogSumExp(TensorOp):
 
 
 def logsumexp(a, axes=None):
+    if isinstance(axes, int):  # hw4 test case问题
+        axes = (axes,)
     return LogSumExp(axes=axes)(a)
 
