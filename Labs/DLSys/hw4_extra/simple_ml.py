@@ -223,16 +223,14 @@ def epoch_general_ptb(data, model, seq_len=40, loss_fn=nn.SoftmaxLoss(), opt=Non
         y_pred, h = model.forward(X)
         loss = loss_fn(y_pred, y)
         err_count += np.sum(y_pred.numpy().argmax(axis=1) != y.numpy())
-        loss_sum += loss.numpy() * X.shape[0]
-        sample_count += X.shape[0]
+        loss_sum += loss.numpy() * y_pred.shape[0]
+        sample_count += y_pred.shape[0]
         if opt:
             opt.reset_grad()
             loss.backward()
             if clip:
                 opt.clip_grad_norm(clip)
             opt.step()
-        if i == 5000:
-            break
     return 1 - (err_count / sample_count), loss_sum / sample_count
 
 def train_ptb(model, data, seq_len=40, n_epochs=1, optimizer=ndl.optim.SGD,
