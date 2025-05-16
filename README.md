@@ -278,7 +278,7 @@ Site abbreviation:
 | 24/05/14 | LC3337     | Total Chatacters in String After Transformation II        | Fast Pow                            |                                                                                                      |
 | 24/05/15 | LC2900     | Longest Unequal Adjacent Groups Subsequence I             | Array                               |                                                                                                      |
 | 24/05/16 | LC2901     | Longest Unequal Adjacent Groups Subsequence II            | DP                                  |
-|          |            |                                                           |                                     |                                                                                                      |
+| 24/05/16 | LC1202     | Smallest String With Swaps                                | Union Find                          |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
