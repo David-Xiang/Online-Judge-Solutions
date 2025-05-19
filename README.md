@@ -279,7 +279,7 @@ Site abbreviation:
 | 24/05/15 | LC2900     | Longest Unequal Adjacent Groups Subsequence I             | Array                               |                                                                                                      |
 | 24/05/16 | LC2901     | Longest Unequal Adjacent Groups Subsequence II            | DP                                  |
 | 24/05/16 | LC1202     | Smallest String With Swaps                                | Union Find                          |                                                                                                      |
-|          |            |                                                           |                                     |                                                                                                      |
+| 24/05/19 | LC3024     | Type of Triangle                                          | Array                               |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
 |          |            |                                                           |                                     |                                                                                                      |
