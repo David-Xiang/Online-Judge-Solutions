@@ -1,0 +1,18 @@
+Q: Which registers contain arguments to functions? For example, which register holds 13 in main's call to printf?
+A: a0/a1/a2.... 13 is hold in reg a2.
+
+Q: Where is the call to function f in the assembly code for main? Where is the call to g? (Hint: the compiler may inline functions.)
+A: The call to f in main() is cancelled and the return value is hardcoded (2e).
+
+Q: At what address is the function printf located?
+A: 6e2.
+
+Q: What value is in the register ra just after the jalr to printf in main?
+A: It should be 38 (pc + 4bytes), the next instruction after jal. 
+
+Q: Run the following code. What is the output? The output depends on that fact that the RISC-V is little-endian. If the RISC-V were instead big-endian what would you set i to in order to yield the same output? Would you need to change 57616 to a different value?
+A: The output is  "HE110 World". In a big-endian system, i should be 0x726c6400. We do not need to change 57616, printf will always print digits from high to low position.
+
+Q: In the following code, what is going to be printed after 'y='? (note: the answer is not a specific value.) Why does this happen?
+A: The value in register a2. If I add one line of assembly code below, it will output y=12345:
+__asm__ ("li a2,12345");
